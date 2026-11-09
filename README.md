@@ -2,7 +2,7 @@
 
 # Gabriel García
 
-Full-stack developer · Computer Science at Galileo University · Guatemala City
+Software Engineer · Computer Science at Galileo University · Guatemala City
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=TypeScript+%C2%B7+React+%C2%B7+Angular+%C2%B7+Node.js;Java+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+Express;SQL+%C2%B7+Docker+%C2%B7+Linux+%C2%B7+GCP+%2F+Azure+%2F+AWS" alt="TypeScript, React, Angular, Node.js, Java, Python, FastAPI, Express, SQL, Docker, Linux, GCP, Azure, AWS" />
 
