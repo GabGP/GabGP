@@ -12,7 +12,7 @@ Software Engineer · Computer Science at Galileo University · Guatemala City
 
 I'm finishing a B.S. in Computer Science at Galileo University (expected 2027) and I mostly build web apps: Angular or React on the front end, Node.js, FastAPI or Java on the back end, and a SQL database behind them. I also enjoy the lower-level side, so a few of my projects are custom network protocols, a raw-socket traceroute and a small ARM operating system.
 
-Right now most of my time goes into Utz'tutor, an offline AI tutor a teammate and I are building for schools that have no internet. I'm also learning Rust.
+Right now most of my time goes into Utz'tutor, an offline AI tutor a teammate and I are building for schools that have no internet. I'm also learning Rust. <img src="ferris_64.gif" alt="Ferris the crab" height="48">
 
 I'm looking for a junior full-stack or software engineering role, remote or in Guatemala City.
 
