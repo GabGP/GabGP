@@ -10,9 +10,11 @@ Software Engineer · Computer Science at Galileo University · Guatemala City
 
 </div>
 
-I'm finishing a B.S. in Computer Science at Galileo University (expected 2027) and I mostly build web apps: Angular or React on the front end, Node.js, FastAPI or Java on the back end, and a SQL database behind them. I also enjoy the lower-level side, so a few of my projects are custom network protocols, a raw-socket traceroute and a small ARM operating system.
+I'm finishing a B.S. in Computer Science at Galileo University (expected 2027) and I build web apps: Angular or React on the front end, Node.js, FastAPI or Java on the back end, and a SQL database behind them. 
 
-Right now most of my time goes into Utz'tutor, an offline AI tutor a teammate and I are building for schools that have no internet. I'm also learning Rust. <img src="ferris_64.gif" alt="Ferris the crab" height="48" align=center>
+I also enjoy the lower-level side, so a few of my projects are custom network protocols, a raw-socket traceroute and a small ARM operating system.
+
+I like learning new things and facing a good challenge, specially with new technologies. Currently I find myself learning Rust. <img src="ferris_64.gif" alt="Ferris the crab" height="48" align=center>
 
 I'm looking for a junior full-stack or software engineering role, remote or in Guatemala City.
 
@@ -20,11 +22,11 @@ I'm looking for a junior full-stack or software engineering role, remote or in G
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Utz'tutor](https://github.com/GabGP/TutorBox)<br><sub>Aug 2026 to now</sub> | An AI math tutor for primary schools in rural Guatemala that runs with no internet at all. A small language model served through llama.cpp's OpenAI-compatible API writes quiz questions, SymPy checks the math before any student sees it, and feedback is read aloud in Spanish or K'iche'. I worked on the FastAPI backend, the React web app, the Ansible setup for the Jetson Orin Nano and an ESP32 answer clicker. | React, TypeScript, Python, FastAPI, SQLite, llama.cpp, Ansible, C++ (ESP32) |
-| [Seurat](https://github.com/GabGP/protocol-seurat)<br><sub>Sep to Oct 2026</sub> | A gigapixel image viewer for the browser. Instead of downloading the whole image, the server sends only the detail you need as you zoom in, over our own binary protocol. I worked on the async Java server and the React viewer. | Java, React, TypeScript, REST, WebSocket, WebTransport |
-| [Customs Agency](https://github.com/GabGP/Customs-Agency)<br><sub>Sep to Nov 2025</sub> | Tracks international shipments for a customs agency, calculates taxes automatically and keeps an audit log of every change. I designed the MariaDB schema so records stay consistent when several users update the same shipment. | Angular, TypeScript, SCSS, Express, MariaDB, REST |
-| [Capture The Flag](https://github.com/GabGP/CaptureTheFlag)<br><sub>Jul 2026</sub> | A real-time multiplayer game. One player hosts, the rest join over the network, and the server keeps everyone's game in sync through a protocol we wrote. Built with a teammate. | Rust, Macroquad |
-| [Multiprogramming OS](https://github.com/GabGP/MultiprogrammingOS)<br><sub>Mar to Jun 2026</sub> | A small operating system that runs several programs at once on ARM, tested on QEMU's VersatilePB and on a BeagleBone Black. Group project. | C, ARMv7, Bash, Linux |
+| [Utz'tutor](https://github.com/GabGP/TutorBox)<br><sub>Aug 2026 to now</sub> | An AI math tutor for primary schools in rural Guatemala that runs with no internet at all. | React, TypeScript, Python, FastAPI, SQLite, llama.cpp, Ansible, C++ (ESP32) |
+| [Seurat](https://github.com/GabGP/protocol-seurat)<br><sub>Sep to Oct 2026</sub> | An optimized gigapixel image viewer for the browser. | Java, React, TypeScript, REST, WebSocket, WebTransport |
+| [Customs Agency](https://github.com/GabGP/Customs-Agency)<br><sub>Sep to Nov 2025</sub> | Tracks international shipments for a customs agency, calculates taxes automatically and keeps an audit log of every change. | Angular, TypeScript, SCSS, Express, MariaDB, REST |
+| [Capture The Flag](https://github.com/GabGP/CaptureTheFlag)<br><sub>Jul 2026</sub> | A real-time multiplayer game through a protocol. | Rust, Macroquad |
+| [Multiprogramming OS](https://github.com/GabGP/MultiprogrammingOS)<br><sub>Mar to Jun 2026</sub> | A small operating system that runs several programs at once on ARM. | C, ARMv7, Bash, Linux |
 
 <details>
 <summary><b>More on my GitHub</b></summary>
